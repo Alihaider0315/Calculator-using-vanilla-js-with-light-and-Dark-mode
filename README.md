@@ -1,5 +1,6 @@
 # Calculator-using-js-with-light-and-Dark-mode
-Fully functional calculator with beautiful swipeable light & Dark theme slider button 
+scientific calculator with beautiful swipeable light & Dark theme slider button
+Perform all types of simple and scientific calculations including trigonometric ratios
 ## Tech:
 - HTML 5
 - CSS
