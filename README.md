@@ -7,3 +7,6 @@ Perform all types of simple and scientific calculations including trigonometric 
 - HTML 5
 - CSS 3
 - Vanilla JS (ES6)
+## Deployment:
+- Netlify
+      https://calculator-dev-ak.netlify.app/
