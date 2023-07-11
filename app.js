@@ -1,6 +1,6 @@
 const display = document.getElementById("display");
 const buttons = document.querySelectorAll("button");
-// --------------- calc functionality
+// --------------- calculator functionality
 buttons.forEach((btn) => {
   btn.addEventListener("click", (e) => {
     if (btn.id == "clear") {
